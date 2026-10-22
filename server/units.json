@@ -1,0 +1,431 @@
+[
+ {
+  "name": "Al-Jizah",
+  "gov": "Amman",
+  "kind": "district",
+  "size": 0.57
+ },
+ {
+  "name": "Al-Muwaqqar",
+  "gov": "Amman",
+  "kind": "district",
+  "size": 0.57
+ },
+ {
+  "name": "Um al-Basatin",
+  "gov": "Amman",
+  "kind": "district",
+  "size": 0.57
+ },
+ {
+  "name": "Na'ur",
+  "gov": "Amman",
+  "kind": "district",
+  "size": 0.57
+ },
+ {
+  "name": "Jubeiha",
+  "ar": "الجبيهة",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.2,
+  "lat": 32.022,
+  "lng": 35.868
+ },
+ {
+  "name": "Sweileh",
+  "ar": "صويلح",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.1,
+  "lat": 32.03,
+  "lng": 35.835
+ },
+ {
+  "name": "Tla' al-Ali",
+  "ar": "تلاع العلي",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.1,
+  "lat": 31.998,
+  "lng": 35.858
+ },
+ {
+  "name": "Khalda",
+  "ar": "خلدا",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.0,
+  "lat": 31.993,
+  "lng": 35.828
+ },
+ {
+  "name": "Abu Nseir",
+  "ar": "أبو نصير",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 0.8,
+  "lat": 32.058,
+  "lng": 35.882
+ },
+ {
+  "name": "Shmeisani",
+  "ar": "الشميساني",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 0.7,
+  "lat": 31.972,
+  "lng": 35.897
+ },
+ {
+  "name": "Abdoun",
+  "ar": "عبدون",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 0.6,
+  "lat": 31.942,
+  "lng": 35.883
+ },
+ {
+  "name": "Jabal al-Hussein",
+  "ar": "جبل الحسين",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.0,
+  "lat": 31.97,
+  "lng": 35.918
+ },
+ {
+  "name": "Downtown",
+  "ar": "وسط البلد",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 0.9,
+  "lat": 31.95,
+  "lng": 35.935
+ },
+ {
+  "name": "Hashmi al-Shamali",
+  "ar": "الهاشمي الشمالي",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.3,
+  "lat": 31.968,
+  "lng": 35.958
+ },
+ {
+  "name": "Marka",
+  "ar": "ماركا",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.4,
+  "lat": 31.988,
+  "lng": 35.99
+ },
+ {
+  "name": "Nuzha",
+  "ar": "النزهة",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 0.9,
+  "lat": 31.985,
+  "lng": 35.932
+ },
+ {
+  "name": "Tabarbour",
+  "ar": "طبربور",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.0,
+  "lat": 32.01,
+  "lng": 35.955
+ },
+ {
+  "name": "Quweismeh",
+  "ar": "القويسمة",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.2,
+  "lat": 31.912,
+  "lng": 35.948
+ },
+ {
+  "name": "Wadi al-Seer",
+  "ar": "وادي السير",
+  "gov": "Amman",
+  "kind": "neighborhood",
+  "size": 1.1,
+  "lat": 31.952,
+  "lng": 35.818
+ },
+ {
+  "name": "Ar Ramtha",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Wastiyyeh",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Tayybeh",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Mazar Shamaliyyeh",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Bani Knana",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Al-Aghwar Shamaliyyeh",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Hariema",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Kora",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 0.58
+ },
+ {
+  "name": "Irbid",
+  "gov": "Irbid",
+  "kind": "district",
+  "size": 3.78
+ },
+ {
+  "name": "Az-Zarqa",
+  "gov": "Zarqa",
+  "kind": "district",
+  "size": 2.95
+ },
+ {
+  "name": "Birin",
+  "gov": "Zarqa",
+  "kind": "district",
+  "size": 3.61
+ },
+ {
+  "name": "As-Salt",
+  "gov": "Balqa",
+  "kind": "district",
+  "size": 1.04
+ },
+ {
+  "name": "Ardhah",
+  "gov": "Balqa",
+  "kind": "district",
+  "size": 0.32
+ },
+ {
+  "name": "Al-Balqa",
+  "gov": "Balqa",
+  "kind": "district",
+  "size": 0.32
+ },
+ {
+  "name": "Shuna al-Jabiniyya",
+  "gov": "Balqa",
+  "kind": "district",
+  "size": 0.32
+ },
+ {
+  "name": "Dair Alla",
+  "gov": "Balqa",
+  "kind": "district",
+  "size": 0.32
+ },
+ {
+  "name": "Al-Azraq",
+  "gov": "Mafraq",
+  "kind": "district",
+  "size": 0.29
+ },
+ {
+  "name": "Ar-Ruwayshid",
+  "gov": "Mafraq",
+  "kind": "district",
+  "size": 0.29
+ },
+ {
+  "name": "Sabha",
+  "gov": "Mafraq",
+  "kind": "district",
+  "size": 0.29
+ },
+ {
+  "name": "Sama as-Sarhan",
+  "gov": "Mafraq",
+  "kind": "district",
+  "size": 0.29
+ },
+ {
+  "name": "Bal'ama",
+  "gov": "Mafraq",
+  "kind": "district",
+  "size": 0.29
+ },
+ {
+  "name": "Al-Mafraq",
+  "gov": "Mafraq",
+  "kind": "district",
+  "size": 1.17
+ },
+ {
+  "name": "Jerash",
+  "gov": "Jerash",
+  "kind": "district",
+  "size": 1.12
+ },
+ {
+  "name": "Kofranjah",
+  "gov": "Ajloun",
+  "kind": "district",
+  "size": 0.46
+ },
+ {
+  "name": "Aljun",
+  "gov": "Ajloun",
+  "kind": "district",
+  "size": 0.38
+ },
+ {
+  "name": "Dhiban",
+  "gov": "Madaba",
+  "kind": "district",
+  "size": 0.48
+ },
+ {
+  "name": "Madaba",
+  "gov": "Madaba",
+  "kind": "district",
+  "size": 0.4
+ },
+ {
+  "name": "Al-Qasr",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.14
+ },
+ {
+  "name": "Al-Safi",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.14
+ },
+ {
+  "name": "Faqqu",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.14
+ },
+ {
+  "name": "Al-Mazra'a",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.14
+ },
+ {
+  "name": "Ayy",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.14
+ },
+ {
+  "name": "Al-Karak",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.67
+ },
+ {
+  "name": "Al-Mazar al-Janubiyya",
+  "gov": "Karak",
+  "kind": "district",
+  "size": 0.14
+ },
+ {
+  "name": "Al-Tafila",
+  "gov": "Tafilah",
+  "kind": "district",
+  "size": 0.21
+ },
+ {
+  "name": "Birsayra",
+  "gov": "Tafilah",
+  "kind": "district",
+  "size": 0.13
+ },
+ {
+  "name": "Al-Hasa",
+  "gov": "Tafilah",
+  "kind": "district",
+  "size": 0.13
+ },
+ {
+  "name": "Ma'an",
+  "gov": "Ma'an",
+  "kind": "district",
+  "size": 0.34
+ },
+ {
+  "name": "Ayi",
+  "gov": "Ma'an",
+  "kind": "district",
+  "size": 0.1
+ },
+ {
+  "name": "Wadi Musa",
+  "gov": "Ma'an",
+  "kind": "district",
+  "size": 0.1
+ },
+ {
+  "name": "Al-Husanyniyya",
+  "gov": "Ma'an",
+  "kind": "district",
+  "size": 0.1
+ },
+ {
+  "name": "Ash-Shibek",
+  "gov": "Ma'an",
+  "kind": "district",
+  "size": 0.1
+ },
+ {
+  "name": "Wadi Araba",
+  "gov": "Aqaba",
+  "kind": "district",
+  "size": 0.25
+ },
+ {
+  "name": "Al-Quwayra",
+  "gov": "Aqaba",
+  "kind": "district",
+  "size": 0.25
+ },
+ {
+  "name": "Al-Aqaba",
+  "gov": "Aqaba",
+  "kind": "district",
+  "size": 0.41
+ }
+]

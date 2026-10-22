@@ -1,0 +1,88 @@
+{
+ "features": [
+  "max_z",
+  "sum_pos_z",
+  "prev_max_z",
+  "n_watch",
+  "n_high",
+  "clinic_z",
+  "nb_red",
+  "nb_yellow",
+  "nb_recent",
+  "nb_max_z",
+  "is_watch",
+  "single_med"
+ ],
+ "mean": {
+  "max_z": 0.68484,
+  "sum_pos_z": 1.07523,
+  "prev_max_z": 0.64962,
+  "n_watch": 0.11114,
+  "n_high": 0.02087,
+  "clinic_z": 0.09505,
+  "nb_red": 0.00422,
+  "nb_yellow": 0.00349,
+  "nb_recent": 0.01094,
+  "nb_max_z": 1.60659,
+  "is_watch": 0.10537,
+  "single_med": 0.2502
+ },
+ "std": {
+  "max_z": 0.99543,
+  "sum_pos_z": 1.22215,
+  "prev_max_z": 0.98288,
+  "n_watch": 0.3329,
+  "n_high": 0.14394,
+  "clinic_z": 0.99106,
+  "nb_red": 0.07068,
+  "nb_yellow": 0.06044,
+  "nb_recent": 0.10401,
+  "nb_max_z": 1.11906,
+  "is_watch": 0.30704,
+  "single_med": 0.43313
+ },
+ "weights": {
+  "max_z": -0.06725,
+  "sum_pos_z": 0.71525,
+  "prev_max_z": 0.24866,
+  "n_watch": 0.23607,
+  "n_high": 0.05099,
+  "clinic_z": 0.07857,
+  "nb_red": 0.07888,
+  "nb_yellow": 0.07851,
+  "nb_recent": 0.02313,
+  "nb_max_z": 0.27014,
+  "is_watch": -0.25394,
+  "single_med": 0.79287
+ },
+ "bias": -7.54399,
+ "info": {
+  "trained_on_worlds": 100,
+  "tested_on_worlds": 20,
+  "train_rows": 485694,
+  "test_rows": 97142,
+  "test_positive_rows": 133,
+  "auc": 0.828,
+  "auc_simple_rule": 0.736,
+  "recall_top10": 0.398,
+  "recall_top10_simple_rule": 0.271,
+  "bands": {
+   "high": {
+    "areas": 21,
+    "really_alerted": 6,
+    "rate": 0.286
+   },
+   "medium": {
+    "areas": 42,
+    "really_alerted": 8,
+    "rate": 0.19
+   },
+   "low": {
+    "areas": 97079,
+    "really_alerted": 119,
+    "rate": 0.001
+   }
+  },
+  "horizon_hours": 48
+ }
+}

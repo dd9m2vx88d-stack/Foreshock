@@ -1,0 +1,131 @@
+{
+ "worlds": 100,
+ "per_size": 20,
+ "sizes": [
+  1.5,
+  2.0,
+  2.5,
+  3.0,
+  3.5
+ ],
+ "foreshock": {
+  "caught": 61,
+  "of": 100,
+  "false_per_world": 0.9,
+  "median_delay_days": 2,
+  "by_size": [
+   3,
+   9,
+   13,
+   19,
+   17
+  ]
+ },
+ "ears": [
+  {
+   "caught": 81,
+   "of": 100,
+   "false_per_world": 118.6,
+   "median_delay_days": 1,
+   "by_size": [
+    10,
+    16,
+    16,
+    19,
+    20
+   ],
+   "z": 3
+  },
+  {
+   "caught": 65,
+   "of": 100,
+   "false_per_world": 38.9,
+   "median_delay_days": 2,
+   "by_size": [
+    4,
+    10,
+    15,
+    19,
+    17
+   ],
+   "z": 4
+  },
+  {
+   "caught": 56,
+   "of": 100,
+   "false_per_world": 13.4,
+   "median_delay_days": 2.0,
+   "by_size": [
+    2,
+    9,
+    13,
+    16,
+    16
+   ],
+   "z": 5
+  },
+  {
+   "caught": 45,
+   "of": 100,
+   "false_per_world": 5.5,
+   "median_delay_days": 2,
+   "by_size": [
+    2,
+    4,
+    10,
+    14,
+    15
+   ],
+   "z": 6
+  },
+  {
+   "caught": 28,
+   "of": 100,
+   "false_per_world": 1.0,
+   "median_delay_days": 2.0,
+   "by_size": [
+    1,
+    1,
+    4,
+    9,
+    13
+   ],
+   "z": 8
+  },
+  {
+   "caught": 21,
+   "of": 100,
+   "false_per_world": 0.2,
+   "median_delay_days": 2,
+   "by_size": [
+    1,
+    0,
+    2,
+    5,
+    13
+   ],
+   "z": 10
+  }
+ ],
+ "ears_same_false_alarms": {
+  "caught": 28,
+  "of": 100,
+  "false_per_world": 1.0,
+  "median_delay_days": 2.0,
+  "by_size": [
+   1,
+   1,
+   4,
+   9,
+   13
+  ],
+  "z": 8
+ },
+ "foreshock_misses_by_group": {
+  "Throat / chest": 8,
+  "Stomach": 7,
+  "Skin": 22,
+  "Fever / flu": 2
+ },
+ "method": "Daily verdicts. Caught = an alert for the outbreak's area and illness within 9 days of its start. False alarm = an alert-day for any other area/illness, or before the start. EARS C2: 7-day baseline ending 3 days earlier, alarm when z > threshold."
+}

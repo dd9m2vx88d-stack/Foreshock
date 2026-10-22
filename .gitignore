@@ -1,0 +1,6 @@
+# created when Foreshock runs: database, pharmacy keys, photos, settings
+data/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

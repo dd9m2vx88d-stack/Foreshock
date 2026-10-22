@@ -1,0 +1,9 @@
+# One-click deploy on render.com: New > Blueprint > pick this repository.
+services:
+  - type: web
+    name: foreshock
+    runtime: docker
+    plan: free
+    envVars:
+      - key: FORESHOCK_PUBLIC
+        value: "1"
