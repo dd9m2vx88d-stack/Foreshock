@@ -5,6 +5,14 @@ An outbreak early-warning system for Jordan that watches pharmacy sales and clin
 
 <p align="center">Sydney Innovation Challenge 2026 · SDG 3: Good Health and Well-being · by Yousef Al Kattan</p>
 
+<p align="center">
+  <a href="https://codespaces.new/dd9m2vx88d-stack/Foreshock?quickstart=1"><img src="https://github.com/codespaces/badge.svg" alt="Open the live dashboard in GitHub Codespaces"></a>
+  &nbsp;
+  <a href="https://render.com/deploy?repo=https://github.com/dd9m2vx88d-stack/Foreshock"><img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"></a>
+</p>
+
+<p align="center"><b>Try it in your browser:</b> click <b>Open in GitHub Codespaces</b>, then <b>Create codespace</b>. After about a minute the Foreshock dashboard opens in a new tab. Sign in as <code>admin</code> with the password <code>foreshock</code>. (Needs a free GitHub account. If the tab doesn't open, go to the <b>Ports</b> tab and click the globe next to port 8000.)</p>
+
 > **Student prototype.** All pharmacy, clinic, alert and SMS data is simulated. The accounts are demo accounts. Foreshock is not affiliated with or endorsed by Jordan's Ministry of Health, the JFDA or Hakeem.
 
 ![Foreshock overview of Jordan](docs/overview.jpg)
@@ -47,7 +55,9 @@ EARS only catches more by making many more false alarms (81 caught at 118.6 fals
 
 ## Run it
 
-You need Python 3.8 or newer. Nothing else to install.
+**In your browser, nothing to install:** use the **Open in GitHub Codespaces** button at the top.
+
+**On your own computer:** you need Python 3.8 or newer. Nothing else to install.
 
 ```bash
 python3 server/server.py

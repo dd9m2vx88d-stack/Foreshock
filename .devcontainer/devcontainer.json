@@ -1,0 +1,15 @@
+{
+  "name": "Foreshock",
+  "image": "mcr.microsoft.com/devcontainers/python:3.12",
+  "forwardPorts": [8000],
+  "portsAttributes": {
+    "8000": { "label": "Foreshock dashboard", "onAutoForward": "openBrowser" }
+  },
+  "postAttachCommand": {
+    "foreshock": "python3 server/server.py --no-browser --port 8000"
+  },
+  "customizations": {
+    "codespaces": { "openFiles": ["README.md"] }
+  },
+  "hostRequirements": { "cpus": 2 }
+}
